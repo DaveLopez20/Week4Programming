@@ -67,3 +67,8 @@ let text1 = "Boogie";
 let text2 = "Nights";
 let text3 = text1.concat(" ",text2);
 document.getElementById("demo").innerHTML = text3;
+
+
+let letter = name[2];
+
+document.getElementById("demo").innerHTML = letter;
